@@ -39,6 +39,7 @@ src/
 
 - Dark mode
 - Task filters
+- Pagination 
 
 ## Author
 
